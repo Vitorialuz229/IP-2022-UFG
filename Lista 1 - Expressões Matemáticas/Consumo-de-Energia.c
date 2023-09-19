@@ -1,4 +1,4 @@
-//Exercício 1 - Consumo de energia
+//Exercício 1 - Consumo de energia (+)
 
 //Leia o valor do salário mínimo
 //Leia a quantidade de kW gasta por residência

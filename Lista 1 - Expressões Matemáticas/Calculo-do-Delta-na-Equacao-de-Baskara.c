@@ -1,4 +1,4 @@
-//Exercício 4 - Cálculo do Delta na Equação de Báskara
+//Exercício 4 - Cálculo do Delta na Equação de Báskara (+)
 
 //Leitura de 3 valores referente ao coeficiente A, cooeficiente B
 //coeficiente C

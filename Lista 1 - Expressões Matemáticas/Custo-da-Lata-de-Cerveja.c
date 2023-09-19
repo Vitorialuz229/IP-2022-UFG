@@ -1,4 +1,4 @@
-//Exercício 3 - Custo da Lata de Cerveja 
+//Exercício 3 - Custo da Lata de Cerveja (+) 
 
 //Leia p raio e a altura 
 //Retorne o valor do custo da lata 

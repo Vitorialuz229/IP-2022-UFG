@@ -1,4 +1,4 @@
-//Exercício 7 - Cálculo de Área de um Triângulo
+//Exercício 7 - Cálculo de Área de um Triângulo (++)
 
 //Leia os 3 lados do triângulos 
 //Retorno a Área do Triângulo
@@ -14,6 +14,6 @@ void main() {
     Area = sqrt(T*(T-L1)*(T-L2)*(T-L3));
 
     printf("A AREA DO TRIANGULO E = %.2lf", Area);
-    
+
 return 0;
 }

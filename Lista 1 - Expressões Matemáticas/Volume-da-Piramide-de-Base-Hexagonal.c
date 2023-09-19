@@ -1,4 +1,4 @@
-//Exercícios 5 - Volumee da Pirâmide de Base Hexagonal 
+//Exercícios 5 - Volumee da Pirâmide de Base Hexagonal (+) 
 
 //Leia a altura da pirâmide e a aresta do hexagono
 //Retorna o valor do volume da pirâmide 

@@ -1,4 +1,4 @@
-//Exercício 6 - Tempo em segundos
+//Exercício 6 - Tempo em segundos (+)
 
 //Leia 3 valores = horas, minutos e segundos
 //Retorna o tempo convertido em segundos

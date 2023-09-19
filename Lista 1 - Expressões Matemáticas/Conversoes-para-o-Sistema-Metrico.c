@@ -1,4 +1,4 @@
-//Exercício 2 - Conversão para o Sistema Métrico 
+//Exercício 2 - Conversão para o Sistema Métrico (+) 
 
 //Leia uma temperatura em Fahrenheit 
 //Retorne em Celsius ( C = 5(F-32)/9 )
@@ -19,6 +19,6 @@ void main() {
 
     printf("O VALOR EM CELSIUS = %.2lf\n", C ); 
     printf("A QUANTIDADE DE CHUVA E = %.2lf\n", mm );
-    
+
 return 0; 
 }
