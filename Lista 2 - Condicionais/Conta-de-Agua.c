@@ -1,12 +1,17 @@
 //Exercício 2 - Conta de Água (+)
 
-//Leia conta do cliente (int)
-//Leia consumo de água por metros cúbicos (double)
-//Leia o tipo de consumidor r (um caractere: ‘C’ - COMERCIAL,
-//‘I’ - INDUSTRIAL ou ‘R’ - RESIDENCIAL)
-
-//Retorno da conta onde o código inteiro identificador de conta 
-//Retorno do valor da conta pago pelo consumidor
+/*
+Desenvolver um programa para calcular a conta de água para uma empresa de saneamento. O custo da
+água varia dependendo se o consumidor é residencial, comercial ou industrial. A regra para calcular a conta
+é:
+• Residencial: R$ 5,00 de taxa mais R$ 0,05 por metros cúbicos gastos;
+• Comercial: R$ 500,00 para os primeiros 80 metros cúbicos gastos mais R$ 0,25 por metros cúbicos
+gastos;
+• Industrial: R$ 800,00 para os primeiros 100 metros cúbicos gastos mais R$ 0,04 por metros cúbicos
+gastos;
+ler a conta do cliente, o consumo de água por metros cúbicos e o tipo de consumidor (residencial, comercial e industrial ). 
+e imprimir a conta do cliente e o valor em Reais a ser pago pelo mesmo.
+*/ 
 
 void main() { 
     int conta_cliente;  
