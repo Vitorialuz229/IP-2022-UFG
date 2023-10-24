@@ -14,3 +14,7 @@ Concentra exercicios da lista propostos pelo professor que tem o objetivo ensina
 
 LISTA 2 - CONDICIONAIS 
 Concentra exercicios da lista proposta pelo professor que tem o objetivo aplicar condicionais através probleminhas. 
+
+LISTA 3 - LAÇOS DE REPETIÇÃO 
+Concentra exercicios da lista proposto pelo professor que tem o objetivo aplicaar os laços de repetição (for, while e do while) através de probleminhas. 
+
