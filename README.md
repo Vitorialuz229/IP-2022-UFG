@@ -1,6 +1,8 @@
 IP 2022-2
 
 OBS: As listas apresentam níveis. 
+
+
 LISTA 0 - ALGORITMO 
 Concentra estudo dirigidos divididos por área de estudo, com enfoque ajudar nas listas de exercicios. 
 
